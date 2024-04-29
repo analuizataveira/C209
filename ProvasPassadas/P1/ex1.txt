@@ -1,0 +1,25 @@
+Questão 1) Julgue os 6 itens a seguir como V (verdadeiro) ou F (falso). Justifique as
+afirmativas que são falsas (36 pts).
+
+(V) O espaço de cores HSV é dito mais intuitivo para humanos por possuir três
+propriedades mais relevantes à percepção humana.
+
+(F) Duas imagens diferentes, com a mesma quantidade de pixels, irão
+obrigatoriamente gerar o mesmo histograma.
+Duas imagens diferentes, mesmo com a mesma quantidade de pixels, não irão necessariamente gerar o mesmo histograma. 
+O histograma de uma imagem depende das intensidades de seus pixels, que podem variar significativamente entre diferentes imagens.
+
+
+(F) Na linguagem interpretada SVG, a seguinte linha representa um retângulo de
+dimensões 50x100 cuja cor é vermelha:
+< rect widith = “50” height = “100” fill = “red” />
+O correto é width e não widith
+
+(V) O espaço aditivo de cores CMY pode possuir um canal K que representa a cor
+preta.
+
+(V) Ao realizar o blending entre img1 e img2, podemos utilizar os seguintes
+coeficientes: imagem_blending = (0.8 * img1) + (0.3 * img2).
+
+(v) Observando o histograma abaixo, é possível afirmar que um valor de limiar
+adequado para uma operação de threshold na imag
